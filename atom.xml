@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zzwqaq.com</id>
     <title>zzw</title>
-    <updated>2020-04-17T11:56:13.877Z</updated>
+    <updated>2020-04-17T11:59:27.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zzwqaq.com"/>
     <link rel="self" href="https://zzwqaq.com/atom.xml"/>
@@ -27,8 +27,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[记一次简单的sql优化]]></title>
-        <id>https://zzwqaq.com/post/nmsl/</id>
-        <link href="https://zzwqaq.com/post/nmsl/">
+        <id>https://zzwqaq.com/post/sql1/</id>
+        <link href="https://zzwqaq.com/post/sql1/">
         </link>
         <updated>2020-04-15T15:36:51.000Z</updated>
         <summary type="html"><![CDATA[<p>😅😅😅😅😅😅</p>
