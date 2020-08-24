@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://zzwqaq.com</id>
+    <id>http://zzwqaq.com</id>
     <title>zzw</title>
-    <updated>2020-04-17T12:48:12.459Z</updated>
+    <updated>2020-08-24T15:08:50.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://zzwqaq.com"/>
-    <link rel="self" href="https://zzwqaq.com/atom.xml"/>
+    <link rel="alternate" href="http://zzwqaq.com"/>
+    <link rel="self" href="http://zzwqaq.com/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://zzwqaq.com/images/avatar.png</logo>
-    <icon>https://zzwqaq.com/favicon.ico</icon>
+    <logo>http://zzwqaq.com/images/avatar.png</logo>
+    <icon>http://zzwqaq.com/favicon.ico</icon>
     <rights>All rights reserved 2020, zzw</rights>
     <entry>
         <title type="html"><![CDATA[Hello Friends]]></title>
-        <id>https://zzwqaq.com/post/hello-friends/</id>
-        <link href="https://zzwqaq.com/post/hello-friends/">
+        <id>http://zzwqaq.com/post/hello-friends/</id>
+        <link href="http://zzwqaq.com/post/hello-friends/">
         </link>
         <updated>2020-04-16T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎来到小周的blog ！</p>
@@ -26,19 +26,20 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[记一次简单的sql优化]]></title>
-        <id>https://zzwqaq.com/post/sql1/</id>
-        <link href="https://zzwqaq.com/post/sql1/">
+        <title type="html"><![CDATA[赠zzw]]></title>
+        <id>http://zzwqaq.com/post/sql1/</id>
+        <link href="http://zzwqaq.com/post/sql1/">
         </link>
         <updated>2020-04-15T15:36:51.000Z</updated>
-        <summary type="html"><![CDATA[<p>😅😅😅😅😅😅</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>😅😅😅😅😅😅</p>
-<!-- more -->
-<!-- more -->
-<!-- more -->
-<!-- more -->
-<p>😟😟😟😟😟</p>
+        <content type="html"><![CDATA[<p>你仍未游历过山海</p>
+<p>却说最美的风景已不再</p>
+<p>你仍未吐露过真诚</p>
+<p>却说世界没用值得托付的未来</p>
+<p>你仍未遇见过爱情</p>
+<p>却说人生而孤独</p>
+<p>也许一切并不糟糕</p>
+<p>不妨多出去看看<br>
+------by mob</p>
 ]]></content>
     </entry>
 </feed>
